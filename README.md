@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on OpenIOP
+- 🌱 I’m currently learning CUDA
+
 <!--
 **josephcarragher/josephcarragher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
