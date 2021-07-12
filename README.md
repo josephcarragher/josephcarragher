@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-- 🔭 I’m currently working on OpenIOP
--->
 - 🌱 I’m currently learning CUDA
 
 <!--
