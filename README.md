@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning CUDA
+- 🌱 I’m currently learning Verilog
 
 <!--
 **josephcarragher/josephcarragher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
