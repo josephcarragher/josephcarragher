@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a SHA3-256 miner for the Xilinx U50C
 - 🌱 I’m currently learning Verilog
 
 <!--
