@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a SHA3-256 miner for the Xilinx U50C
-- 🌱 I’m currently learning Verilog
+- 🔭 I’m currently working on my website
+- 🌱 I’m currently learning HTML, CSS, and Git
 
 <!--
 **josephcarragher/josephcarragher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
