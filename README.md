@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my website
-- 🌱 I’m currently learning PCB design
+- 🔭 I’m currently working on a custom SXM2 to PCIe adapter PCB
+- 🌱 I’m currently learning computer vision and guidance systems
 
 <!--
 **josephcarragher/josephcarragher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
