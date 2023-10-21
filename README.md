@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Joseph 👋
 
-- 🔭 I’m currently working on a custom SXM2 to PCIe adapter PCB
+- 🔭 I’m currently working on an SXM2 to PCIe adapter board
 - 🌱 I’m currently learning computer vision and guidance systems
+- 📚 Diving deep into film photography on my Fujifilm TX-2
 
 <!--
 **josephcarragher/josephcarragher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
