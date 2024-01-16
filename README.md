@@ -1,7 +1,7 @@
 ## Hi there, I'm Joseph 👋
 
 - 🔭 I’m currently working on an SXM2 to PCIe adapter board
-- 🌱 I’m currently learning computer vision and guidance systems
+- 🌱 I’m currently learning computer vision and navigation systems
 - 📚 Diving deep into film photography on my Fujifilm TX-2
 
 <!--
